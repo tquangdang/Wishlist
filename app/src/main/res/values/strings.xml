@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="item_name">Item Name</string>
+    <string name="price">Price</string>
+    <string name="link">https://example.com/</string>
+    <string name="submit">Submit</string>
+</resources>
